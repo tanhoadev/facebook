@@ -44,7 +44,7 @@ const Example = ({ placeholder }) => {
                 onBlur={newContent => setContent(newContent)}
                 onChange={newContent => setContent(newContent)}
             />
-            <button onClick={handleSave}>Lưu</button>
+            <button onClick={handleSave}>Lưus</button>
         </div>
     );
 };
