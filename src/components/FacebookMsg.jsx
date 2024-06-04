@@ -1,6 +1,6 @@
-"use client"
 import React from 'react'
 import { FacebookProvider, CustomChat } from 'react-facebook';
+import FacebookChat from './FacebookChat';
 
 function FacebookMsg() {
 
